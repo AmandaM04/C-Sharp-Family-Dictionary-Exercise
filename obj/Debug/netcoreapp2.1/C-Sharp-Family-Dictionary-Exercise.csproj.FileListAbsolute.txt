@@ -1,0 +1,11 @@
+/Users/amandamitchell/workspace/csharp/exercises/C-Sharp-Family-Dictionary-Exercise/bin/Debug/netcoreapp2.1/C-Sharp-Family-Dictionary-Exercise.deps.json
+/Users/amandamitchell/workspace/csharp/exercises/C-Sharp-Family-Dictionary-Exercise/bin/Debug/netcoreapp2.1/C-Sharp-Family-Dictionary-Exercise.runtimeconfig.json
+/Users/amandamitchell/workspace/csharp/exercises/C-Sharp-Family-Dictionary-Exercise/bin/Debug/netcoreapp2.1/C-Sharp-Family-Dictionary-Exercise.runtimeconfig.dev.json
+/Users/amandamitchell/workspace/csharp/exercises/C-Sharp-Family-Dictionary-Exercise/bin/Debug/netcoreapp2.1/C-Sharp-Family-Dictionary-Exercise.dll
+/Users/amandamitchell/workspace/csharp/exercises/C-Sharp-Family-Dictionary-Exercise/bin/Debug/netcoreapp2.1/C-Sharp-Family-Dictionary-Exercise.pdb
+/Users/amandamitchell/workspace/csharp/exercises/C-Sharp-Family-Dictionary-Exercise/obj/Debug/netcoreapp2.1/C-Sharp-Family-Dictionary-Exercise.csprojAssemblyReference.cache
+/Users/amandamitchell/workspace/csharp/exercises/C-Sharp-Family-Dictionary-Exercise/obj/Debug/netcoreapp2.1/C-Sharp-Family-Dictionary-Exercise.csproj.CoreCompileInputs.cache
+/Users/amandamitchell/workspace/csharp/exercises/C-Sharp-Family-Dictionary-Exercise/obj/Debug/netcoreapp2.1/C-Sharp-Family-Dictionary-Exercise.AssemblyInfoInputs.cache
+/Users/amandamitchell/workspace/csharp/exercises/C-Sharp-Family-Dictionary-Exercise/obj/Debug/netcoreapp2.1/C-Sharp-Family-Dictionary-Exercise.AssemblyInfo.cs
+/Users/amandamitchell/workspace/csharp/exercises/C-Sharp-Family-Dictionary-Exercise/obj/Debug/netcoreapp2.1/C-Sharp-Family-Dictionary-Exercise.dll
+/Users/amandamitchell/workspace/csharp/exercises/C-Sharp-Family-Dictionary-Exercise/obj/Debug/netcoreapp2.1/C-Sharp-Family-Dictionary-Exercise.pdb
